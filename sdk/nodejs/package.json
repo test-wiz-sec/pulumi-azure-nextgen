@@ -13,7 +13,7 @@
         "build": "tsc"
     },
     "dependencies": {
-        "@pulumi/pulumi": "^2.0.0"
+        "@pulumi/pulumi": "3.34.0-alpha.1653899488"
     },
     "pulumi": {
         "resource": true
